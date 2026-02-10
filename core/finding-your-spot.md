@@ -4,13 +4,11 @@ The best defenders in basketball don't chase the ball. They're already where the
 
 ---
 
-## The Aphid on the Stem
+## Be Where the Ball Wants to Go
 
-There's a tiny insect called an aphid. It doesn't chase food. It positions itself on a plant stem where the sap flows, and the PRESSURE of the plant pushes the food to it. It keeps about 5% of what flows through. The rest it gives away — and that generosity attracts ants who protect it from predators.
+Watch a veteran player without the ball. They don't stand around. They don't chase. They drift to the open spot — the soft zone between two defenders where nobody can quite cover. The ball handler drives, the defense collapses, and the veteran is standing wide open at the elbow.
 
-The aphid doesn't hustle. The aphid positions.
-
-Now watch the best players on a basketball court.
+Nobody passed to them because they demanded it. The ball found them because they were in the right place.
 
 ---
 

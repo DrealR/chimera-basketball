@@ -1,4 +1,4 @@
-# Transition
+# The Fast Break
 
 Transition is the two seconds between possessions that most coaches ignore and championship teams master.
 

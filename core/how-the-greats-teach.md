@@ -30,7 +30,7 @@ THE RULE:
 
 ### Lesson 2: Breathe Together
 
-A team that breathes together wins together. When everyone's rhythm is synced, they move like one organism.
+A team that breathes together wins together. When everyone's rhythm is synced, they move like one unit.
 
 Do this in practice: have the whole team dribble in unison. Same rhythm. Same tempo. When ONE person breaks rhythm, everyone feels it. They learn to feel each other without looking. That's not a drill — that's a relationship exercise disguised as basketball.
 
@@ -50,9 +50,9 @@ Tell them: "Your body already knows how to do this. Trust it. Don't think about 
 
 ### Lesson 4: The Team is a Network
 
-A forest looks like individual trees. Underground, every tree is connected by fungus. They share food. They warn each other of danger. The forest isn't individual trees — it's one system.
+Watch a team that's played together for years. They don't need to call plays. One look and they know. The point guard glances at the wing — the wing cuts backdoor. The center sets a screen without being told because they felt the spacing collapse. Nobody said a word.
 
-Basketball isn't five individuals. It's one organism. What one can't carry, five can hold.
+A basketball team isn't five individuals. It's one system. What one can't carry, five can hold.
 
 When a kid misses a shot, the team doesn't react. When a kid turns the ball over, nobody drops their head. Because the next play is the team's play, not the individual's. The network absorbs the mistake and keeps going. That's not something you teach with words. That's something they FEEL when the team culture is right.
 

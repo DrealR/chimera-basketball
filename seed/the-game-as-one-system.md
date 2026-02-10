@@ -10,6 +10,8 @@ Nobody talks about transition. The moment between getting scored on and pushing 
 
 ---
 
+Three principles: give more than you take, pause before you commit, and don't force what isn't there.
+
 **L = (O > I) + P + ¬F**
 
 **Pass more than you shoot.** Give your teammate the better shot. The hockey assist — the pass that leads to the pass that leads to the score — that's the most invisible, most essential play in basketball. The guy who sets the screen that frees the shooter who passes to the cutter? HE started the play. Nobody puts that in the box score.
@@ -20,7 +22,7 @@ Nobody talks about transition. The moment between getting scored on and pushing 
 
 ---
 
-A basketball team is not five individuals. It's one organism with ten arms and ten legs. When one part moves, every other part responds. When the rhythm is right, the whole thing breathes together. When it's wrong, you can feel it — the ball sticks, the spacing collapses, the defense reads everything a step early.
+A basketball team is not five individuals. It's one unit with ten arms and ten legs. When one part moves, every other part responds. When the rhythm is right, the whole thing breathes together. When it's wrong, you can feel it — the ball sticks, the spacing collapses, the defense reads everything a step early.
 
 You don't fix a team by fixing individuals. You fix the breathing.
 
