@@ -4,35 +4,6 @@ The game has a rhythm. You can hear it if you listen.
 
 ---
 
-## The Four Phases
-
-```
-READ = See the defense
-  What are they giving you?
-  Where is the space?
-  Where is the help?
-  You're taking in information.
-
-LOAD = The triple threat
-  You haven't committed yet.
-  Ball fake. Jab step. Eyes up.
-  All options are open.
-  This is the most powerful moment in basketball.
-
-GO = Make the play
-  Drive. Shoot. Pass.
-  You chose. Commit fully.
-  No half-drives. No pump fakes that go nowhere.
-  When you go, GO.
-
-RESET = Dead ball / timeout / free throw
-  Recover. Mentally reset.
-  The game gives you breaks.
-  Use them. The players who skip the reset burn out.
-```
-
----
-
 ## Tempo is Everything
 
 Every team has a rhythm. Fast teams push. Slow teams grind. The best teams control the tempo — they speed up when it helps them and slow down when it doesn't.
@@ -50,6 +21,8 @@ SLOW TEMPO:
 ```
 
 The team that dictates tempo wins. Not because fast is better than slow or slow is better than fast. Because controlling the rhythm means controlling the game. You're playing on YOUR schedule, not theirs.
+
+Watch what happens when a slow, disciplined team tries to run with an athletic team. They get destroyed. Watch what happens when a fast team gets pulled into a halfcourt grind. They get frustrated, take bad shots, force the action. The team that plays at THEIR tempo has the advantage. Always.
 
 ---
 
@@ -70,29 +43,29 @@ THE RHYTHM OF A GREAT SHOT:
   Follow-through — hand stays, watch it fly
 ```
 
-You don't think your way to a great shot. You find the rhythm and let it go.
+You don't think your way to a great shot. You find the rhythm and let it go. That's why shooters have routines. The routine isn't superstition. The routine is the on-ramp to the rhythm. Same bounce, same hand position, same tempo — and the body takes over.
+
+---
+
+## Team Rhythm
+
+When a team is clicking, they're in sync. The ball moves on time. The cuts happen on rhythm. One player fakes, another moves, the ball arrives exactly where it needs to be. It looks choreographed but it's not — it's five people locked into the same tempo.
+
+When a team is struggling, you can hear it. The ball sticks. One guy holds it too long, killing the flow. Someone cuts early, someone cuts late. The timing is off. A team out of rhythm looks like five people playing five different games on the same court.
+
+You fix it the same way you fix your own shot. Start simple. Get the ball moving. Make the easy pass. Get one stop on defense. Small things, done in sync. The rhythm comes back. It always does if you start small enough.
 
 ---
 
 ## The Players Who Burn Out
 
-They never reset. Always pressing. Always forcing. Sprinting every play. Talking on every dead ball. Emotionally charged on every whistle.
+They never reset. Always pressing. Always forcing. Sprinting every play. Emotionally charged on every whistle.
 
 The greats know when to let the game come to them.
 
 A 48-minute game has maybe 12 minutes of actual action. The other 36 minutes are dead balls, free throws, timeouts, inbounds. The great ones are mentally resetting during those 36 minutes. Not checked out — just calm. Letting the last play go. Getting ready for the next one.
 
 The game gives you a rhythm. Work, reset, work, reset. If you only work, you break. If you ride the rhythm, you can play forever.
-
----
-
-## Team Rhythm
-
-When a team is clicking, they're in sync. The ball moves on rhythm. The cuts happen on time. One player fakes, another moves, the ball arrives exactly where it needs to be. It looks choreographed but it's not — it's five people locked into the same tempo.
-
-When a team is struggling, you can hear it. The ball sticks. One guy holds it too long, killing the rhythm. Someone cuts early, someone cuts late. The timing is off.
-
-You fix this the same way you fix your own rhythm. Start small. Start simple. Get the tempo back. Don't force the full-court press when you can't even get the inbound pass right. Get in sync first. The rest follows.
 
 ---
 
