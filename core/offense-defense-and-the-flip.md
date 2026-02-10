@@ -46,44 +46,15 @@ Who you are in transition is who you really are as a player. The rest is just fo
 
 There's a drill — three cones, one ball. Behind the back at cone one. Between the legs at cone two. Spin at cone three. Drive to the basket.
 
-That drill puts those three things in your hands.
-
 ```
-Cone 1 (Behind Back)
-  Ball goes behind you. You can't see it.
-  Protection and trust.
-
-Cone 2 (Between Legs)
-  Quick change of direction through your base.
-  Tight handle, stay low.
-
-Cone 3 (Spin)
-  Full body rotation. Change of pace.
-  Use the defender's momentum against them.
-
-DRIVE
-  All three moves connected.
-  Attack the basket.
+Cone 1 → Behind the back. Change direction.
+Cone 2 → Between the legs. Stay low, stay tight.
+Cone 3 → Spin. Use their momentum against them.
+DRIVE  → Attack the basket.
 ```
 
 The drill isn't three separate moves. It's one sequence — change direction, change pace, change angle, go. When a player does it right, you can hear the rhythm. When they do it wrong, you hear hesitation between the cones. The hesitation is where the drill breaks. The flow is where the drill lives.
 
 ---
 
-## Seeing It Everywhere
-
-Once you see the three, you can't unsee them.
-
-| Level | One Side | The Middle | Other Side |
-|-------|----------|------------|------------|
-| Season | Regular season | Last 10 games | Playoffs |
-| Game | First half | Halftime | Second half |
-| Possession | Offense | Transition | Defense |
-| Play | Set up | The read | Finish |
-| Move | Fake | Hesitation | Go |
-
-It's the same pattern at every level. The transition — the shift in the middle — is always where the real game happens.
-
----
-
-*The offense-defense split is how beginners see basketball. Three things — with the middle being the most important — is how the game actually works.*
+*The offense-defense split is how beginners see basketball. The real game lives in the transition between them.*

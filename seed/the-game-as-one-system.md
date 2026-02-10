@@ -4,15 +4,15 @@ The game is alive.
 
 Two teams, one ball, one court. Everything that happens is one of three things: offense, defense, or transition. That's it. Every play, every possession, every season — those three. Over and over.
 
-The transition is where games are won.
+The transition is where games are won and lost.
 
-Nobody talks about transition. The moment between getting scored on and pushing the ball up court. The two seconds where the defense hasn't set, where the floor is open, where everything is possible. That moment IS the game. The teams that master transition master basketball. Everything else is just waiting for the next transition.
+Nobody talks about transition enough. The moment between getting scored on and pushing the ball up court. The two seconds where the defense hasn't set, where the floor is open, where everything is possible. The teams that master transition have an edge that no play design can replicate.
 
 ---
 
 Three principles: give more than you take, pause before you commit, and don't force what isn't there.
 
-**Pass more than you shoot.** Give your teammate the better shot. The hockey assist — the pass that leads to the pass that leads to the score — that's the most invisible, most essential play in basketball. The guy who sets the screen that frees the shooter who passes to the cutter? HE started the play. Nobody puts that in the box score.
+**Pass more than you shoot.** Give your teammate the better shot. The ball moves faster than any defender. When the offense is built on passing, everyone is a threat. When it's built on one player, the defense only has one job.
 
 **Pause before you drive.** Triple threat isn't indecision. It's intelligence. The ball fake, the jab step, the eyes up — you haven't committed yet. Every option is open. The best players live in this moment longer than everyone else.
 
