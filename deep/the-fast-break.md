@@ -56,7 +56,7 @@ You were on offense. You were running a play. You were ready to score. And then 
 
 Most players jog back. They're still processing the missed shot. Still in offensive mode. Their mind hasn't transitioned even if their feet have.
 
-The great ones are gone before the miss even registers. Because they're not transitioning from offense to defense. They're transitioning from one breath to the next. The missed shot is an exhale. The sprint back is an inhale. There's no gap between them because it's all one rhythm.
+The great ones are gone before the miss even registers. The missed shot doesn't matter. The sprint back is automatic. There's no gap because the great ones don't separate offense from defense — it's all one game.
 
 ---
 
@@ -85,5 +85,3 @@ That's why most coaches spend practice on halfcourt sets. It's controllable. Tra
 ---
 
 *The game isn't won in the offense or the defense. It's won in the two seconds between them.*
-
-*For the full philosophy: [chimera-framework](https://github.com/DrealR/chimera-framework)*

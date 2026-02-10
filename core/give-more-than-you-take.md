@@ -79,5 +79,3 @@ Listen. The game is talking. What's it saying?
 ---
 
 *The best player makes everyone else better. That's not a cliche. That's the deepest thing in basketball.*
-
-*For the full philosophy: [chimera-framework](https://github.com/DrealR/chimera-framework)*

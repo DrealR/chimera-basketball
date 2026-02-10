@@ -18,7 +18,7 @@ Every moment on the court is one of three things.
 
 Most coaches teach offense and defense separately. Run this play on offense. Guard your man on defense. Two separate things. Two separate drills. Two separate mindsets.
 
-The great ones teach transition — the two to three seconds between losing the ball and getting back on defense. Or between grabbing the rebound and pushing the break. That unnamed space where the floor is chaos and everything is possible.
+The great ones teach transition — the two to three seconds between losing the ball and getting back on defense. Or between grabbing the rebound and pushing the break. That chaotic space where the floor is wide open and everything is possible.
 
 ---
 
@@ -42,31 +42,31 @@ Who you are in transition is who you really are as a player. The rest is just fo
 
 ---
 
-## The Three-Cone Truth
+## The Cone Drill
 
 There's a drill — three cones, one ball. Behind the back at cone one. Between the legs at cone two. Spin at cone three. Drive to the basket.
 
-That drill IS those three things in physical form.
+That drill puts those three things in your hands.
 
 ```
-Cone 1 (Behind Back) = RELEASE
+Cone 1 (Behind Back)
   Ball goes behind you. You can't see it.
-  Letting go. Trust.
+  Protection and trust.
 
-Cone 2 (Between Legs) = THE MIDDLE
-  Ball passes through your center.
-  Literally through the space between your legs.
+Cone 2 (Between Legs)
+  Quick change of direction through your base.
+  Tight handle, stay low.
 
-Cone 3 (Spin) = GATHER
-  Full body rotation. Collecting energy.
-  You become the vortex.
+Cone 3 (Spin)
+  Full body rotation. Change of pace.
+  Use the defender's momentum against them.
 
-DRIVE = Action from center
-  All three phases complete.
-  Energy channeled forward.
+DRIVE
+  All three moves connected.
+  Attack the basket.
 ```
 
-The drill isn't three separate moves. It's one breath — release, pass through center, gather, go. When a player does it right, you can hear the rhythm. When they do it wrong, you hear hesitation between the cones. The hesitation is where the drill breaks. The flow is where the drill lives.
+The drill isn't three separate moves. It's one sequence — change direction, change pace, change angle, go. When a player does it right, you can hear the rhythm. When they do it wrong, you hear hesitation between the cones. The hesitation is where the drill breaks. The flow is where the drill lives.
 
 ---
 
@@ -74,7 +74,7 @@ The drill isn't three separate moves. It's one breath — release, pass through 
 
 Once you see the three, you can't unsee them.
 
-| Scale | One Side | The Middle | Other Side |
+| Level | One Side | The Middle | Other Side |
 |-------|----------|------------|------------|
 | Season | Regular season | Last 10 games | Playoffs |
 | Game | First half | Halftime | Second half |
@@ -82,10 +82,8 @@ Once you see the three, you can't unsee them.
 | Play | Set up | The read | Finish |
 | Move | Fake | Hesitation | Go |
 
-It's the same pattern at every level. The thing in the middle — the unnamed thing — is always where the real game happens.
+It's the same pattern at every level. The transition — the shift in the middle — is always where the real game happens.
 
 ---
 
 *The offense-defense split is how beginners see basketball. Three things — with the middle being the most important — is how the game actually works.*
-
-*For the full philosophy: [chimera-framework](https://github.com/DrealR/chimera-framework)*

@@ -16,7 +16,7 @@ The only thing that changed is the pressure.
 THE FREE THROW IN PRACTICE:
   Quiet gym. No stakes. Routine.
   Your body knows what to do.
-  Catch. Bounce. Breathe. Shoot.
+  Catch. Bounce. Settle. Shoot.
   It goes in because you're not fighting anything.
 
 THE FREE THROW IN THE FINALS:
@@ -28,7 +28,7 @@ THE FREE THROW IN THE FINALS:
   The pressure has.
 ```
 
-The players who make those free throws aren't the ones with the best mechanics. They're the ones who can find quiet in the noise. Who can shrink the moment down to just them and the ball. Who breathe.
+The players who make those free throws aren't the ones with the best mechanics. They're the ones who can find quiet in the noise. Who can shrink the moment down to just them and the ball. Who find their rhythm.
 
 ---
 
@@ -41,7 +41,7 @@ UNDER PRESSURE, EVERYTHING AMPLIFIES:
   Good habits become great.
   Bad habits become disastrous.
   The player who panics in drills panics in games.
-  The player who breathes in drills breathes in games.
+  The player who stays composed in drills stays composed in games.
   Pressure doesn't create anything new.
   It reveals what was always there.
 ```
@@ -68,13 +68,13 @@ THE CHOKE:
 THE CLUTCH:
   Pressure arrives.
   You accept it.
-  You control what you can — your breath, your routine, your feet.
+  You control what you can — your rhythm, your routine, your feet.
   Your body stays loose. Your mind stays quiet.
   The moment gets SMALLER.
   You shoot.
 ```
 
-Watch the great ones at the free throw line in the playoffs. Same routine. Same bounce. Same breath. They don't change anything because there's nothing to change. The moment is big. Their routine is the same.
+Watch the great ones at the free throw line in the playoffs. Same routine. Same bounce. Same rhythm. They don't change anything because there's nothing to change. The moment is big. Their routine is the same.
 
 ---
 
@@ -122,5 +122,3 @@ The best players in pressure moments have short memories and long preparation. T
 ---
 
 *Pressure doesn't require more skill. It requires more preparation and less resistance. The players who own the big moments are the ones who practiced them before they arrived.*
-
-*For the full philosophy: [chimera-framework](https://github.com/DrealR/chimera-framework)*

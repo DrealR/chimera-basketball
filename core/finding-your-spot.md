@@ -78,5 +78,3 @@ Hard work in the wrong position is just running. Smart positioning in the right 
 ---
 
 *Don't chase the ball. Be where the ball is going.*
-
-*For the full philosophy: [chimera-framework](https://github.com/DrealR/chimera-framework)*

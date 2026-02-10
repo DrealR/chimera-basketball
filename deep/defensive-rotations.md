@@ -116,5 +116,3 @@ The best defensive teams aren't the ones that never give up a bucket. They're th
 ---
 
 *Defense isn't about one stop. It's about reading, rotating, recovering, and making the other team play YOUR game. The defense that makes them react controls the game.*
-
-*For the full philosophy: [chimera-framework](https://github.com/DrealR/chimera-framework)*

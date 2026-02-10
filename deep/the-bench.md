@@ -1,6 +1,6 @@
-# The Bench as Rest
+# The Bench
 
-Rest isn't weakness. Rotation is how the game breathes.
+Rest isn't weakness. Rotation is strategy.
 
 ---
 
@@ -51,11 +51,9 @@ Practice is where you experiment. Where you try the move that might not work. Wh
 ```
 GAME:     Perform. React. Execute.
 PRACTICE: Explore. Fail. Learn.
-GAME:     Exhale.
-PRACTICE: Inhale.
 ```
 
-Players who skip practice — or sleepwalk through it — are players who never inhale. They're all output. Eventually they run out of air.
+Players who skip practice — or sleepwalk through it — are players who never reload. They're all output, no input. Eventually they run out.
 
 ---
 
@@ -65,9 +63,9 @@ The timeout is the pause button. The game is moving too fast. The other team jus
 
 Timeout.
 
-Silence. Water. Breathing. The coach says three sentences. Not ten. Three. The huddle breaks. Five players walk back on the court with a reset mind.
+Silence. Water. The coach says three sentences. Not ten. Three. The huddle breaks. Five players walk back on the court with a reset mind.
 
-The timeout didn't change the score. It changed the rhythm. It broke the other team's momentum by introducing a pause. The game was breathing fast and chaotic. The timeout forced it to breathe slowly. Just for thirty seconds. Enough.
+The timeout didn't change the score. It changed the rhythm. It broke the other team's momentum by introducing a pause. The game was moving fast and chaotic. The timeout forced everything to slow down. Just for thirty seconds. Enough.
 
 ---
 
@@ -91,10 +89,8 @@ OFFSEASON:
   The team that rests properly comes back stronger.
 ```
 
-At every scale — the play, the quarter, the game, the season — rest is built in. The game GIVES you rest. The bench, the timeout, the offseason. They're not interruptions. They're part of the design.
+At every level — the play, the quarter, the game, the season — rest is built in. The game GIVES you rest. The bench, the timeout, the offseason. They're not interruptions. They're part of the design.
 
 ---
 
 *The best teams don't play harder than everyone else. They rest better than everyone else.*
-
-*For the full philosophy: [chimera-framework](https://github.com/DrealR/chimera-framework)*

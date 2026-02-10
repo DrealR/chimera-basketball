@@ -34,7 +34,7 @@ THE PASS DOESN'T GO:
 THE PASS GOES:
   Through the gap
   Through the space that exists between defenders
-  Through the opening that appears and disappears like breathing
+  Through the opening that appears and disappears in a heartbeat
 ```
 
 Great passers don't see players. They see lanes. The negative space. The court is mostly empty — 94 by 50 feet with only ten bodies on it. The ball lives in the space, not in the hands.
@@ -60,7 +60,7 @@ FIVE PLAYERS PROPERLY SPACED:
   Maximum space between them.
   The defense is stretched thin.
   Lanes open. Gaps appear. Cuts have room.
-  The game breathes.
+  The game flows.
 ```
 
 Spacing isn't about where the players are. It's about what exists BETWEEN them. Five players in the right spots create a web — every passing lane is open, every driving lane exists, every cut has room. The defense can't take away everything because the space is everywhere.
@@ -86,5 +86,3 @@ These moments look like nothing. They're everything.
 ---
 
 *The ball lives in the space between defenders. The game lives in the space between offense and defense. Master the spaces and you master basketball.*
-
-*For the full philosophy: [chimera-framework](https://github.com/DrealR/chimera-framework)*

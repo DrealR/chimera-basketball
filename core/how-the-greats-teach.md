@@ -28,13 +28,13 @@ THE RULE:
 
 ---
 
-### Lesson 2: Breathe Together
+### Lesson 2: Find the Rhythm
 
-A team that breathes together wins together. When everyone's rhythm is synced, they move like one unit.
+A team that moves in rhythm wins together. When everyone's tempo is synced, they move like one unit.
 
 Do this in practice: have the whole team dribble in unison. Same rhythm. Same tempo. When ONE person breaks rhythm, everyone feels it. They learn to feel each other without looking. That's not a drill — that's a relationship exercise disguised as basketball.
 
-Team huddle: breathe together. In for four, out for four. Not because breathing is magic. Because five people doing the same thing at the same time creates a connection that carries onto the court.
+Team huddle before the game. Clap together. Count together. Not because clapping is magic. Because five people locked into the same tempo creates a connection that carries onto the court.
 
 ---
 
@@ -79,10 +79,8 @@ than chasing the ball.
 
 You never say any of this out loud. You don't give a speech about teamwork. You don't lecture about flow. You set up drills where they EXPERIENCE it. The game teaches. You just create the conditions.
 
-A kid who learns to breathe with their teammates, trust their body, find the open man, and read the defense — that kid learned more than basketball. They just don't know it yet. And that's perfect. The best teaching is invisible.
+A kid who learns to play in sync with their teammates, trust their body, find the open man, and read the defense — that kid learned basketball at the deepest level. And the best teaching is the kind they don't even notice.
 
 ---
 
 *The game is the teacher. You're just the one who opens the gym.*
-
-*For the full philosophy: [chimera-framework](https://github.com/DrealR/chimera-framework)*

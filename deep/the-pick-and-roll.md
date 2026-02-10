@@ -102,5 +102,3 @@ Watch a great point guard in the pick-and-roll. Their head doesn't move. Their e
 ---
 
 *Two people. One screen. The simplest play in basketball and the hardest to stop. The pick-and-roll is a conversation between offense and defense. The faster reader wins.*
-
-*For the full philosophy: [chimera-framework](https://github.com/DrealR/chimera-framework)*

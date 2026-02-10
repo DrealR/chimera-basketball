@@ -13,12 +13,12 @@ No one told you what position to play. No one drew up plays. You figured it out.
 ```
 ORGANIZED BASKETBALL:
   Roles assigned. Plays called. Coach decides.
-  Freedom is bounded by the system.
+  You play within the system.
   You fit into the machine.
 
 PICKUP BASKETBALL:
   Roles discovered. Plays emerge. Players decide.
-  Freedom is bounded only by the game itself.
+  The only limits are the game itself.
   You ARE the machine.
 ```
 
@@ -85,5 +85,3 @@ That question — asked and answered every possession, every game, every run —
 ---
 
 *The freest basketball happens when nobody is in charge. The game runs itself when the players trust themselves and each other.*
-
-*For the full philosophy: [chimera-framework](https://github.com/DrealR/chimera-framework)*
