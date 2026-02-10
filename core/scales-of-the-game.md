@@ -89,8 +89,8 @@ Nobody teaches this way. Coaches jump straight to plays and strategy — Scale 4
 
 Each scale has three parts. Something on one side. Something on the other. And something in the middle that nobody talks about.
 
-| Scale | Pole A | The Middle | Pole B |
-|-------|--------|------------|--------|
+| Scale | One Side | The Middle | Other Side |
+|-------|----------|------------|------------|
 | Season | Regular season | Last 10 games | Playoffs |
 | Game | First half | Halftime | Second half |
 | Possession | Offense | Transition | Defense |

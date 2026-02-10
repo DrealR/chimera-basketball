@@ -1,18 +1,18 @@
-# Triality of the Game
+# Three Things
 
 Every moment on the court is one of three things.
 
 ```
 ┌──────────┐
-│ OFFENSE  │  ← Pole A: You have the ball
+│ OFFENSE  │  You have the ball
 └────┬─────┘
      │
 ┌────┴──────────┐
-│  TRANSITION   │  ← The Between
+│  TRANSITION   │  The moment between them
 └────┬──────────┘
      │
 ┌────┴─────┐
-│ DEFENSE  │  ← Pole B: They have the ball
+│ DEFENSE  │  They have the ball
 └──────────┘
 ```
 
@@ -46,16 +46,16 @@ Who you are in transition is who you really are as a player. The rest is just fo
 
 There's a drill — three cones, one ball. Behind the back at cone one. Between the legs at cone two. Spin at cone three. Drive to the basket.
 
-That drill IS the triality in physical form.
+That drill IS those three things in physical form.
 
 ```
 Cone 1 (Behind Back) = RELEASE
   Ball goes behind you. You can't see it.
   Letting go. Trust.
 
-Cone 2 (Between Legs) = THE BETWEEN
+Cone 2 (Between Legs) = THE MIDDLE
   Ball passes through your center.
-  Literally through the space between.
+  Literally through the space between your legs.
 
 Cone 3 (Spin) = GATHER
   Full body rotation. Collecting energy.
@@ -74,8 +74,8 @@ The drill isn't three separate moves. It's one breath — release, pass through 
 
 Once you see the three, you can't unsee them.
 
-| Scale | Pole A | The Between | Pole B |
-|-------|--------|-------------|--------|
+| Scale | One Side | The Middle | Other Side |
+|-------|----------|------------|------------|
 | Season | Regular season | Last 10 games | Playoffs |
 | Game | First half | Halftime | Second half |
 | Possession | Offense | Transition | Defense |
@@ -86,6 +86,6 @@ It's the same pattern at every level. The thing in the middle — the unnamed th
 
 ---
 
-*The offense-defense split is how beginners see basketball. The triality is how the game actually works.*
+*The offense-defense split is how beginners see basketball. Three things — with the middle being the most important — is how the game actually works.*
 
 *For the full philosophy: [chimera-framework](https://github.com/DrealR/chimera-framework)*
