@@ -1,0 +1,24 @@
+{
+  "name": "chimera-basketball",
+  "description": "The game as one system. Basketball through the CHIMERA lens.",
+  "upstream": ["chimera-system"],
+  "peers": ["chimera-chess", "chimera-music"],
+  "downstream": ["chimera-constellation"],
+  "doc_count": 13,
+  "docs": [
+    {"path": "README.md", "references": []},
+    {"path": "core/control-what-you-can.md", "references": []},
+    {"path": "core/finding-your-spot.md", "references": []},
+    {"path": "core/give-more-than-you-take.md", "references": []},
+    {"path": "core/how-the-greats-teach.md", "references": []},
+    {"path": "core/offense-defense-and-the-flip.md", "references": []},
+    {"path": "core/rhythm-and-tempo.md", "references": []},
+    {"path": "core/spacing-and-passing-lanes.md", "references": []},
+    {"path": "deep/defensive-rotations.md", "references": []},
+    {"path": "deep/high-pressure-moments.md", "references": []},
+    {"path": "deep/the-fast-break.md", "references": []},
+    {"path": "deep/the-pick-and-roll.md", "references": []},
+    {"path": "seed/the-game-as-one-system.md", "references": []}
+  ],
+  "last_updated": "2026-02-11"
+}
