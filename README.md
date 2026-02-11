@@ -4,6 +4,26 @@ A different way to see the game.
 
 ---
 
+## Position in CHIMERA
+
+```
+~/chimera/
+├── nucleus/        (system + framework — DNA)
+├── guts/           (body + math + language — translation)
+├── domains/
+│   ├── relationships/
+│   ├── basketball/     ← YOU ARE HERE
+│   ├── chess/
+│   ├── music/
+│   ├── cooking/
+│   ├── ai/
+│   └── crypto/
+├── infrastructure/ (constellation — deployment)
+└── raw/            (core — unprocessed)
+```
+
+---
+
 Start with `seed/` — one document, one idea.
 Then `core/` — the principles at work.
 Then `deep/` — where it gets specific.
