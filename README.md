@@ -37,3 +37,9 @@ core/   give more than you take, spacing, rhythm,
 deep/   the pick-and-roll, fast break, pressure,
         defensive rotations
 ```
+
+---
+
+## New Teaching Module
+
+- [Hardwood Loop API](core/hardwood-loop-api.md) — five-step court delivery for loop literacy.
